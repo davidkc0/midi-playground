@@ -3,18 +3,6 @@ bouncing square video, FOSS edition (and gamified)
 
 ![gif](https://github.com/user-attachments/assets/b2da77ce-b8b4-4a32-af93-23c02420e6af)
 
-[English](./README.md) | [简体中文](./README-ZH.md)
-## NOTICES
-
-### for content creators:
-
-please try to put the link to this repository in your youtube video descriptions if the youtube video features this software, that is all i request
-
-### for developers:
-
-***this code is licensed under GPL3, it is illegal to publicly distribute modified copies of this software without providing the source upon request!***
-
-it is ok, however, to modify the code and not release the source if you are not releasing the modified version to the public.
 
 ## how to do custom songs?
 
@@ -32,9 +20,6 @@ start program with `python3 main.py`
 
 build command: `pyinstaller main.py --noconsole --onefile --clean --hidden-import glcontext`
 
-## credits
-
-see [docs/CREDITS.md](https://github.com/quasar098/midi-playground/blob/master/docs/CREDITS.md)
 
 ## contributors
 
